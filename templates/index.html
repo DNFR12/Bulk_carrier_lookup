@@ -24,7 +24,7 @@
             box-shadow: 0 1px 5px rgba(0,0,0,0.1);
             padding: 10px;
             max-height: 250px;
-            overflow-y: scroll;
+            overflow-y: auto;
         }
         table { width: 100%; border-collapse: collapse; }
         th, td { border: 1px solid #ccc; padding: 6px; text-align: left; font-size: 14px; }
@@ -40,7 +40,7 @@
         <select name="state">
             <option value="">All States</option>
             {% for s in states %}
-            <option value="{{s}}" {% if selected == s %}selected{% endif %}>{{s}}</option>
+            <option value="{{ s }}" {% if selected == s %}selected{% endif %}>{{ s }}</option>
             {% endfor %}
         </select>
         <button type="submit">Filter</button>
@@ -61,4 +61,15 @@
         </tr>
         {% for c in companies %}
         <tr>
-            <td>{{ c.Ope
+            <td>{{ c["Operator_Name"] }}</td>
+            <td>{{ c["Facility_Name"] }}</td>
+            <td>{{ c["State"] }}</td>
+            <td>{{ c["Liquid_Type_Detail"] }}</td>
+            <td>{{ c["Capacity_Gallons"] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+</body>
+</html>
