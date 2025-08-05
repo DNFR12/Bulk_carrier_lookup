@@ -4,50 +4,59 @@
     <meta charset="UTF-8">
     <title>Bulk Liquid Carrier Lookup</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
-        #topBanner {
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-            padding: 15px;
-            width: 80%;
-            margin: 15px auto;
-            text-align: center;
+        body { margin: 0; padding: 0; }
+        #map {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100vw; height: 100vh;
+            z-index: 1;
         }
-        select, button { padding: 5px; font-size: 14px; }
-        #map { height: 60vh; width: 90%; margin: 10px auto; border: 2px solid #ddd; border-radius: 5px; }
-        #dataTable {
-            width: 90%;
-            margin: 15px auto;
+        #sidePanel {
+            position: absolute;
+            top: 20px; left: 20px;
             background: white;
-            border-radius: 5px;
-            box-shadow: 0 1px 5px rgba(0,0,0,0.1);
-            padding: 10px;
+            padding: 15px;
+            border-radius: 10px;
+            width: 300px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 999;
+        }
+        #sidePanel h2 { margin-top: 0; font-size: 18px; }
+        select, button { width: 100%; margin-top: 5px; padding: 6px; font-size: 14px; }
+        #dataTable {
+            position: absolute;
+            bottom: 20px; left: 20px;
+            width: 300px;
             max-height: 250px;
             overflow-y: auto;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            padding: 10px;
+            z-index: 999;
         }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { border: 1px solid #ccc; padding: 6px; text-align: left; font-size: 14px; }
+        table { width: 100%; border-collapse: collapse; font-size: 12px; }
+        th, td { border: 1px solid #ccc; padding: 4px; text-align: left; }
         th { background: #f0f0f0; }
     </style>
 </head>
 <body>
 
-<div id="topBanner">
-    <h2>Bulk Liquid Carrier Lookup</h2>
+<div id="map">{{ map|safe }}</div>
+
+<div id="sidePanel">
+    <h2>Filter Carriers</h2>
     <form method="GET" action="/">
-        <label for="state">Filter by State:</label>
+        <label for="state">State:</label>
         <select name="state">
             <option value="">All States</option>
             {% for s in states %}
             <option value="{{ s }}" {% if selected == s %}selected{% endif %}>{{ s }}</option>
             {% endfor %}
         </select>
-        <button type="submit">Filter</button>
+        <button type="submit">Apply Filter</button>
     </form>
 </div>
-
-<div id="map">{{ map|safe }}</div>
 
 <div id="dataTable">
     <h3>Filtered Companies</h3>
@@ -55,17 +64,13 @@
         <tr>
             <th>Operator</th>
             <th>Facility</th>
-            <th>State</th>
-            <th>Liquid Type</th>
-            <th>Capacity (Gallons)</th>
+            <th>Liquid</th>
         </tr>
         {% for c in companies %}
         <tr>
             <td>{{ c["Operator_Name"] }}</td>
             <td>{{ c["Facility_Name"] }}</td>
-            <td>{{ c["State"] }}</td>
             <td>{{ c["Liquid_Type_Detail"] }}</td>
-            <td>{{ c["Capacity_Gallons"] }}</td>
         </tr>
         {% endfor %}
     </table>
