@@ -6,7 +6,7 @@ import folium
 csv_path = "Liquid_Bulk_Carriers_With_Coords.csv"
 df = pd.read_csv(csv_path)
 
-# Clean up data
+# Ensure valid Lat/Lng
 df["Lat"] = pd.to_numeric(df["Lat"], errors="coerce")
 df["Lng"] = pd.to_numeric(df["Lng"], errors="coerce")
 df = df.dropna(subset=["Lat", "Lng"])
@@ -17,16 +17,16 @@ app = Flask(__name__)
 def create_map(filtered_df):
     fmap = folium.Map(location=[37.8, -96], zoom_start=4)
 
-    # Custom icons based on product type
     for _, row in filtered_df.iterrows():
+        # Choose color based on product type
         if row.get("Petroleum_Products") == 1:
-            icon_url = "/static/icons/red.png"
+            color, icon = "red", "tint"
         elif row.get("Chemical_Products") == 1:
-            icon_url = "/static/icons/blue.png"
+            color, icon = "blue", "flask"
         elif row.get("Biofuel") == 1:
-            icon_url = "/static/icons/green.png"
+            color, icon = "green", "leaf"
         else:
-            icon_url = "/static/icons/gray.png"
+            color, icon = "gray", "info-sign"
 
         popup_html = f"""
         <b>{row['Operator_Name']}</b><br>
@@ -39,7 +39,7 @@ def create_map(filtered_df):
         folium.Marker(
             location=[row["Lat"], row["Lng"]],
             popup=popup_html,
-            icon=folium.CustomIcon(icon_url, icon_size=(30, 30))
+            icon=folium.Icon(color=color, icon=icon, prefix='fa')
         ).add_to(fmap)
 
     return fmap._repr_html_()
@@ -50,15 +50,9 @@ def home():
     state = request.args.get("state")
     states = sorted(df["State"].dropna().unique())
 
-    if state:
-        filtered_df = df[df["State"] == state]
-    else:
-        filtered_df = df
+    filtered_df = df[df["State"] == state] if state else df
 
-    # Generate map
     map_html = create_map(filtered_df)
-
-    # Convert filtered data to list of dicts for table
     company_data = filtered_df.to_dict(orient="records")
 
     return render_template("index.html", 
