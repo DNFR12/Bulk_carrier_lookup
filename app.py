@@ -4,7 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load dataset
-df = pd.read_csv("bulk_carriers.csv")
+df = pd.read_csv("Liquid_Bulk_Carriers_With_Coords.csv")
 columns_to_keep = [
     "Operator_Name", "Facility_Name", "Physical_Facility_Address", "State",
     "Truck", "Chemical_Products", "Petroleum_Products", "Liquified_Gasses_Products",
@@ -23,3 +23,4 @@ def get_data():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
