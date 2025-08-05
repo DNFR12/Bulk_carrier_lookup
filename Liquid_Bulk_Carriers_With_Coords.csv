@@ -1,0 +1,405 @@
+Operator_Name,Facility_Name,Physical_Facility_Address,State,Truck,Chemical_Products,Petroleum_Products,Liquified_Gasses_Products,NGL,Biofuel,Vegetable_Oil,Waste,Liquid_Type_Detail,Capacity_Gallons,Lat,Lng
+Superior Carriers,,"813 W 18th St, Parker, AZ 85344",AZ,Y,,,,,,,,,,34.1408314,-114.2882265
+Sprague Energy,Searsport,"70 Trundy Road Searsport, ME 04974",ME,Y,,Y,,,,,,Kerosene|Fuel Oil|Heating Fuel Dyed|Bunker Fuel,67200000,44.4535573,-68.9031999
+Turner's Island,Turner's Island,"40 Mechanic Street South Portland, ME 04106",ME,Y,,,,,,,,,,43.6376944,-70.2682263
+Sprague Energy,Sprague-South Portland,"59 Main Street South Portland, ME 04106",ME,Y,,Y,,,,,,Kerosene|Diesel|Heating Fuel Dyed|Jet Fuel,,43.6372167,-70.2864032
+Global,South Portland Terminal,"1 Clark Road South Portland, ME 04106",ME,Y,,Y,,,,,,Kerosene|Fuel Oil|Liquified Asphalt|Diesel|No. 6 Oil,,43.634469,-70.2841256
+Sprague Energy,Rensselaer Terminal,"58 Riverside Avenue Rensselaer, NY 12144",NY,Y,,Y,,,,,,Gasoline|Kerosene|Ethanol|Diesel,,42.6342739,-73.7495097
+BWC Terminals LLC,Contanda Terminals Philadelphia,"2900 E. Allegheny Road Philadelphia, PA 19134",PA,N,Y,,,,,Y,,Specialty chemicals|caustic soda|molasses|Glycol|Amines|Solvents|Nitrogen Solutions|Lignin Sulfonate|Cashew Oil|Acids,,29.78184537,-95.52925309
+Global Chelsea Terminals,,"11 Broadway, Chelsea, MA 02150",MA,Y,,,,,,,,,,42.3865763,-71.0444945
+Gateway Terminal,,"400 Waterfront St, New Haven, CT 06512",CT,Y,,,,,,,,,,41.292967,-72.9041248
+BWC Terminals LLC,BWC Terminals,"1055 Hull St, Baltimore, MD 21230",MD,Y,Y,Y,,,Y,Y,,Biodiesel|Specialty chemicals|caustic soda|petroleum products|base oils|wax|vegetable oil|molasses,20280000,39.2735031,-76.591058
+Global,,"1 Commander Sq, Oyster Bay, NY 11771",NY,Y,,Y,,,,,,Diesel|petroleum products,,40.8747442,-73.5267296
+Hop Energy,,"410 Bank St, New London, CT 06320",CT,Y,,,,,,,,,,41.3503982,-72.0992501
+Sprague Energy,,"372 Shattuck Way, Newington, NH 03801",NH,Y,,Y,,,,,,Kerosene|Fuel Oil|Diesel|Heating Oil |ULSD,,43.113801,-70.817883
+Motiva Enterprises,,"520 Allens Ave, Providence, RI 02905",RI,Y,,,,,,,,,,41.8036343,-71.4015609
+Georgia Ports Authority,Vopak Terminal Savannah,"Tomochichi Rd, Port Wentworth, GA 31407",GA,Y,,,,,,,,,,31.944006,-81.02485
+Gulf Oil ,,"281 Eastern Ave, Chelsea, MA 02150",MA,Y,,,,,,,,,52000,42.3968067,-71.0209711
+"Apex Oil Company, Inc.",,"3314 River Rd., Wilmington, NC, 28412",NC,Y,,Y,,,Y,,,Gasoline|Distillate|Biodiesel|Liquified Asphalt|Aviation Gasoline,62370000,34.187758,-77.950627
+ Pelican Island Storage Terminal Inc.,Bulk Terminal - Galveston Terminals,"4800 Old Port Industrial Rd, Galveston, TX 77554",TX,Y,,Y,,,,,,Diesel|Bunker Fuel,32550000,31,-100
+BWC Terminals,Liquid Bulk Terminals,"1650 Ernest Wilson Dr, Port Allen, LA 70767",LA,Y,Y,,,,,,,Specialty chemicals|molasses,924000000,30.4345839,-91.2100283
+Kinder Morgan Terminals,,"2200 John S Gibson Blvd San Pedro, CA 90731",CA,Y,,,,,,,,,,37,-119
+Center Point Terminal Company,Liquid Bulk Terminals,"995 Ernest Wilson Dr, Port Allen, LA 70767",LA,Y,Y,Y,,,,,,Fuel Oil|Liquified Asphalt|carbon black,51030000,30.444924,-91.2024119
+Bayside Fuel Oil Depot Corporation,,"1100 Grand St, Brooklyn, NY 11211",NY,Y,,Y,,,Y,,,Diesel|BioHeat,,40.7140032,-73.9320098
+Bayside Fuel Oil Depot Corporation,,"537 Smith St, Brooklyn, NY 11231",NY,Y,,,,,Y,,,BioHeat,,40.6737402,-73.9980983
+Heniff Transportation,,"7830 W 71st St, Bridgeview, IL, 60455",IL,Y,,,,,,,,,,41.7624528,-87.8156852
+Sprague Energy,,"144 Allens Ave, Providence, RI 02903",RI,Y,,Y,,,,,,Diesel|Heating Fuel Dyed,,41.811352,-71.4049144
+Inland Fuel Terminals Inc,,"25 State Ave, Tiverton, RI 02878",RI,Y,,,,,,,,,,41.6716257,-71.1781655
+Heniff Transportation,,"1000 S Apache Powder Rd, Saint David, AZ, 85630",AZ,Y,,,,,,,,,,34,-112
+Heniff Trasportation,,"5255 Norwood Rd, Dallas, TX 75247",TX,Y,,,,,,,,,,32.8126891,-96.8897508
+Sprague,,"939 E 138th St, The Bronx, NY 10454",NY,Y,,Y,,,,,,Diesel|Heating Fuel Dyed|Oil,,40.8018858,-73.9065306
+Sprague Energy,,"740 Washington St, Quincy, MA 02169",MA,Y,,Y,,,Y,,,Biodiesel|Diesel|Heating Fuel Dyed,,42.2452564,-70.9711445
+Sprague Energy,,"100 Dexter Rd, East Providence, RI 02914",RI,Y,Y,Y,,,,,,Gasoline|Kerosene|Diesel|Heating Fuel Dyed|Heating Oil |Gasoline Detergent additive,,41.8349096,-71.3675206
+Global,,"1 Eagles Nest Rd, Bridgeport, CT 06607",CT,Y,,Y,,,Y,,,Biodiesel|Diesel|Heating Oil,,41.17075,-73.159742
+"United Riverhead Terminal, Inc.",,"212 Sound Shore Rd, Riverhead, NY 11901",NY,Y,,,,,,,,,,40.9787884,-72.6452194
+Westmore Fuel Co,,"2 Purdy Ave, Port Chester, NY 10573",NY,Y,,,,,,,,,,40.995791,-73.660661
+NGL Energy Partners,,"2901 S Military Hwy, Chesapeake, VA 23323",VA,Y,,,,,,,,,,36.7728946,-76.3146761
+Petro Marine Services,,#1 Lincoln St. P.O. Box 418 Sitka AK 99835,AK,Y,,,,,,,,,,57.0493424,-135.3227539
+Superior Bulk Logistics,,"13735 Broadway Ave, Midland, NC 28107",NC,Y,,,,,,,,,,35.2282864,-80.5006644
+PILOT,,"2000 Port Rd, Port Isabel, TX 78578",TX,Y,,,,,,,,,,26.0620021,-97.2161895
+CITGO,,"495 River Rd, Glenmont, NY 12077",NY,Y,,Y,,,,,,Gasoline|Kerosene|Diesel|Heating Oil,,42.5871433,-73.7674325
+"Center Point Terminal Company, LLC",,"552 River Rd, Glenmont, NY 12077",NY,Y,,Y,Y,,Y,,,Gasoline|Distillate|Biodiesel|Kerosene|Butane,88326000,42.582971,-73.7663028
+Buckeye Partners,,"Rensselaer, NY 12144",NY,Y,,,,,,,,,,42.6405748,-73.7447525
+Superior Carriers,,"2201 W Washington St, Stockton, CA 95203",CA,Y,,,,,,,,,,37.9459568,-121.3223945
+Arrow Reload Systems Inc,,"2600 N Going St, Portland, OR 97217",OR,Y,,,,,,,,,,45.555905,-122.693898
+International-Matex Tank Terminals (IMTT),,"24420 West Durkee Rd. Channahon, IL 60410",IL,Y,Y,Y,,,,,,Specialty chemicals|petroleum products,29652000,41.410247,-88.2065135
+Petro Marine Services,,"4755 Homer Spit Rd, Homer, AK 99603",AK,Y,,,,,,,,,,59.6013119,-151.4113334
+Bulkmatic Transport CO,,"291 Catawissa Ave, Williamsport, PA 17701",PA,Y,Y,Y,,,,,,,,41.229285,-77.0647475
+Energy Transfer LP,,"2450 Farm-To-Market 3057, Bay City, TX 77414",TX,Y,,,,,,,,,,31,-100
+Shell,,"111 State St, Sewaren, NJ 07077",NJ,Y,,,,,,,,,,40.5394129,-74.2607941
+Energy Transfer,,1000 Crown Point Road Westville NJ 08093,NJ,Y,,,,,,,,,,39.8661776,-75.1402256
+Watco,,"702 Washington Ave, Dravosburg, PA 15034",PA,N,Y,Y,,,,,,"Diesel|caustic soda|asphalt|""""other liquid products""""",8400000,40.3540426,-79.8811179
+TransMontaigne Partners LLC,,"425 River Rd, East Liverpool, OH 43920",OH,Y,,,,,,,,,9576000,40.6215173,-80.5643664
+Burlington Junction,,"1510 Bluff Rd, Burlington, IA 52601",IA,Y,Y,Y,,,,,,,,40.8236381,-91.1032859
+Kinder Morgan,Fairless Hills,"1 Sinter Road Fairless Hills, PA 19030",PA,Y,,,,,,,,,6300000,40.178663,-74.867837
+TransMontaigne Partners LLC,,"2630 Broadway Ave, Evansville, IN 47712",IN,Y,,,,,,,,,10290000,37.9694096,-87.6055968
+Plains All American Pipeline,,"G Ave, Seaford, VA 23696",VA,Y,,,,Y,,,,,,37.126061,-76.502764
+Clean Harbors Environmental Services Inc,,"4475 S Dort Hwy, Burton, MI 48529",MI,Y,Y,Y,,,,,,,,42.985558,-83.6533297
+"Ergon Terminaling, Inc.",,"9995 Ohio River Boulevard, Newell, WV 26050",WV,Y,,,,,,,,,,40.6141524,-80.5869971
+Buckeye Partners,,"1312 S Front St, Wilmington, NC 28401",NC,Y,,,,,,,,,,34.2191035,-77.9468904
+Kinder Morgan,,"1710 Woodbine St, Wilmington, NC 28401",NC,Y,Y,Y,,,,,,Liquified Asphalt|Specialty chemicals|petroleum products,34363000,34.2106027,-77.9506905
+Zenith Energy Management LLC,,"437 Industrial Ave, Star City, WV 26505",WV,Y,,Y,,,,,,Distillate,2321000,39.6598312,-79.9898196
+Kinder Morgan,,"4064 Winters Chapel Rd, Doraville, GA 30360",GA,Y,Y,Y,,,,,,Ethanol|Diesel|blending stocks,22565000,33.9115703,-84.2702429
+"Colonial Terminals, Inc.",,"1002 S Front St, Wilmington, NC 28401",NC,Y,Y,Y,,,,,,Specialty chemicals|petroleum products|Solvents|Acids|USP Food Grade Products,30670000,34.222569,-77.9473124
+Kinder Morgan,,"3340 River Road Wilmington, NC 28412",NC,Y,Y,,,,,Y,,vegetable oil|Commodity chemicals,19068000,34.183284,-77.951435
+Bulk Transportation CO,,"11619 N Force Ave, Portland, OR 97217",OR,Y,Y,Y,,,,,,,,45.6041523,-122.6942061
+Carry Transit,,"9500 Fullerton Ave, Franklin Park, IL 60131",IL,Y,,,,,,,,,,41.92244,-87.862626
+Hunt Refining Company,,"177 Haney Rd, Heidelberg, MS 39439",MS,Y,,,,,,,,Liquified Asphalt,,31.8135928,-89.0137677
+CITGO Petroleum Corporation,,"801 McCloskey Blvd, Tampa, FL 33605",FL,Y,,Y,,,,,,Gasoline|Diesel,,27.932903,-82.440841
+VTTI,,"555 FL-401, Cape Canaveral, FL 32920",FL,Y,,Y,,,Y,,,Gasoline|Biodiesel|Ethanol|Fuel Oil|Diesel|Jet Fuel,119934000,28.4186841,-80.6152833
+"Center Point Terminal Company, LLC",,"3101 Talleyrand Ave, Jacksonville, FL 32206",FL,Y,,Y,,,Y,,,Gasoline|Distillate|Biodiesel|Ethanol,47460000,30.3559912,-81.6253993
+RJ Corman,,"370 Swinging Bridge Rd, Old Hickory, TN 37138",TN,Y,Y,Y,,,,,,,,36.2724361,-86.6636343
+Monroe Terminal Company LLC,,"355 Harmon McDonald Rd, Monroe, LA 71202",LA,Y,,,,,,,,,,31,-92
+"Calumet Specialty Products Partners, L.P.",,"3333 Midway Ave, Shreveport, LA 71109",LA,Y,,,,,,,,,,31,-92
+"Calumet Specialty Products Partners, L.P",,"1756 Old Hwy 7, Cotton Valley, LA 71018",LA,Y,,,,,,,,,,32.7974027,-93.4151076
+"Calumet Specialty Products Partners, L.P",,"10234 LA-157, Princeton, LA 71067",LA,Y,,,,,,,,,,32.5920936,-93.5114742
+"Center Point Terminal Company, LLC",,"4303 Emmett Sanders Rd, Pine Bluff, AR 71601",AR,Y,Y,Y,,,,,,Fuel Oil|caustic soda,5292000,34.2560499,-91.9410216
+Martin Midstream Partners L.P,,"7778 Dauphin Island Pkwy, Theodore, AL 36582",AL,Y,,,,,,,,,,30.5288048,-88.108462
+LBC Tank Terminals,,"1725 LA-75, Sunshine, LA 70780",LA,Y,Y,Y,,,,,,Specialty chemicals|petroleum products|base oils,133140000,30.2864018,-91.1533348
+MPLX,,"4006 LA-44, Mt Airy, LA 70076",LA,Y,,,,,,,,,,30.0542881,-90.64548
+CN Cargoflo,,"8820 Keele St, Concord, ON L4K 2N2, Canada",,Y,Y,Y,,,,,,,,43.825987,-79.507229
+Irving Oil,,"52 Station Ave, Searsport, ME 04974",ME,Y,,Y,,,,,,Gasoline|Kerosene|Ethanol|Diesel|Heating Oil,,44.4595909,-68.900041
+Kinder Morgan,,"1588 Lancaster Highway Chester, SC 29706",SC,Y,Y,,,,,,,Specialty chemicals,,34.7308523,-81.1285872
+US Oil-Cheboygan,,"311 N B St, Cheboygan, MI 49721",MI,Y,,,,,,,,,,45.644194,-84.4726507
+Zenith Energy Management LLC,,"5501 NW Front Ave, Portland, OR 97210",OR,Y,,Y,,,Y,,,Distillate|Biodiesel|Aviation Gasoline|crude oil|Renewable Fuels,63764000,45.5648995,-122.7404324
+Kinder Morgan,,"4901 Tremley Point Rd Linden, NJ 07036",NJ,Y,,Y,,,,,,Ethanol,21420000,40.6106133,-74.2214946
+Kinder Morgan,,"1500 Greenleaf St, Charleston, SC 29405",SC,Y,Y,Y,,,,,,Specialty chemicals|petroleum products|Agricultural Products,71400000,34.176709,-80.8503177
+TransMontaigne Partners LLC,,"20 Jackson St, New Albany, IN 47150",IN,Y,,,,,,,,,8442000,38.2716224,-85.8376518
+Enterprise Products Partners L.P.,,"Red Gate Ln, Boligee, AL 35443",AL,Y,,Y,,,,,,,,32.454791,-88.121194
+Waterfront Petroleum,,"5431 W Jefferson Ave, Detroit, MI 48209",MI,Y,,,,,,,,,,42.3104094,-83.0833253
+Waterfront Petroleum,,"1071 Miller Rd, Dearborn, MI 48120",MI,Y,,,,,,,,,,42.2949663,-83.1447768
+Golden Gate,,"500 Ireland Dr, Sparks, NV 89434",NV,Y,,,,,,,,,,39.5495676,-119.4974747
+Bulkmatic Transport CO,,"2351 State St, Chicago Heights, IL 60411",IL,Y,Y,Y,,,,,,,,41.494662,-87.6160444
+Bristol Alliance Fuels,,106 North Pacific Ct. Dillingham AK 99576,AK,Y,,,,,,,,,,59.0364952,-158.4820088
+CIRCON Environmental,,"0642230000055, La Porte, TX 77571",TX,Y,Y,Y,,Y,,,,Diesel|Acids|blending stocks|Lube Oils|petrochemical|Alcohols|Olefins|Vacuum gas oil|Light cycle oil|pyrolysis gas oil|Marine fuels,,31,-100
+Bay Ltd.,,"467 E Beasley Ave, Aransas Pass, TX 78336",TX,Y,,,,,,,,,,27.8777856,-97.156528
+Hoffman Transportation,,"935 Industrial Dr, Old Hickory, TN 37138",TN,Y,Y,Y,,,,,,,,36.2641495,-86.6603407
+Kinder Morgan,,"4310 Pendola Point Rd, Tampa, FL 33619",FL,Y,,,,,,,,,,27.9021648,-82.409457
+Kinder Morgan,,"4145 LA-73, Geismar, LA 70734",LA,Y,,Y,,,,,,,28172000,30.2038376,-91.0227919
+Kinder Morgan,,"2426 S. Wharf St. St. Louis, MO 63104",MO,Y,Y,,,,,,,,4626000,38.6021426,-90.1951534
+Valero,,"Old Texas 48, Brownsville, TX 78521",TX,Y,,,,,,,,,,25.9223579,-97.4799118
+Trans Montaigne,,"511 S Clubbs St, Pensacola, FL 32502",FL,Y,,,,,,,,,,30.4058876,-87.2249922
+Titan Fuel,,"24581 Port Rd, Harlingen, TX 78550",TX,Y,,,,,,,,,21000000,26.2052343,-97.5979106
+Sunoco LP,,"9351 Old State Highway 48 Brownsville, TX 78521",TX,Y,,Y,,,,,,Gasoline|Ethanol|Diesel,23520000,25.9586593,-97.3914371
+"Firebird Bulk Carriers, Inc.",,"9100 Old Port of Brownsville, TX-48, Brownsville, TX 78521",TX,Y,,,,,,,,,,31,-100
+Heniff Transportation,,"4629 Lee Hwy, Marion, VA 24354",VA,Y,,,,,,,,,,36.8245442,-81.5363362
+Papco,,"407 Jefferson Ave, Newport News, VA 23607",VA,Y,,,,,,,,,,36.966956,-76.4123938
+Norfolk Southern TBT (RSI Logistics),,"849 Tennessee Ave, Knoxville, TN 37917",TN,Y,Y,Y,,,,,,,,35.9848904,-83.946761
+JET Infrastructure,,"2900 SE 14th Ave, Fort Lauderdale, FL 33316",FL,Y,,,,,,,,,,26.0958565,-80.1285165
+Heniff Transportation,,"3020 Kathleen Rd, Lakeland, FL 33810",FL,Y,,,,,,,,,,28.0777805,-81.9935132
+Buckeye,,"5150 Virginia Ave, North Charleston, SC 29405",SC,Y,,,,,,,,,,32.891869,-79.9729706
+Epic Midstream,,"7 Foundation Dr, Savannah, GA 31408",GA,Y,,,,,,,,,,32.1053891,-81.1335844
+Retif Oil and Fuel,,"527 Destrehan Ave, Harvey, LA 70058",LA,Y,,,,,,,,,,29.9050374,-90.0832004
+Blakely Terminal,,1257 Cochrane Causeway Mobile AL 36601,AL,Y,,,,,,,,,,30.761124,-88.148193
+Carry Transit,,"2459 Channel Ave, Memphis, TN 38106",TN,Y,,,,,,,,,,35.083676,-90.1218128
+Apex,,"200 Viaduct Rd, Chickasaw, AL 36611",AL,Y,,,,,,,,,,30.7639075,-88.0731979
+Alabama Bulk,,195 Cochrane Causeway P. O. Box 2784 Mobile AL 36633,AL,Y,,,,,,,,,,33.765746,-88.221556
+Maverick,,4669 Joe Fulton Intl TC Corpus Christi TX 78402-1903,TX,N,,,,,,,,,,31,-100
+Petro Marine Services,,"3560 N Douglas Hwy, Juneau, AK 99801",AK,Y,,,,,,,,,,58.2981072,-134.435835
+Targa,,"2628 Marine View Dr, Tacoma, WA 98422",WA,Y,,Y,,,Y,,,Distillate|Biodiesel|Ethanol|Liquified Asphalt|Diesel|Oil,63000000,47.2776659,-122.3839504
+K-Solv,,"1015 Lakeside Dr, Channelview, TX 77530",TX,Y,,,,,,,,,,29.7686826,-95.1036513
+Martin Midstream,,"1300 Coastwide Rd, Galveston, TX 77554",TX,Y,,,,,,,,,,31,-100
+Petro Marine Services,,"104 E Marine Way, Kodiak, AK 99615",AK,Y,,,,,,,,,,57.7912852,-152.3921768
+Miller,,"206 Telegraph Rd, Prichard, AL 36610",AL,Y,,,,,,,,,,30.7354009,-88.0651918
+Quality Transload Inc,,"19929 77th Ave S, Kent, WA 98032",WA,Y,Y,Y,,,,,,,,47.4234135,-122.2395547
+RJ Corman,,"515 Pine Valley Rd, Diboll, TX 75941",TX,Y,Y,Y,,,,,,,,31.1937433,-94.7923255
+Heniff,,"1043 W Amelia St, Orlando, FL 32805",FL,Y,,,,,,,,,,28.5494251,-81.3937964
+RSI Logistics,,"3125 S Andrews Ave, Fort Lauderdale, FL 33316",FL,Y,Y,Y,,,,,,,,26.0924838,-80.1403996
+Targa,Targa Baltimore Terminal,"1955 Chesapeake Avenue, Baltimore MD 21226",MD,Y,,,,,,,,,,39.2392631,-76.5721229
+Savage Service Corp,,"8636 Sorensen Ave, Santa Fe Springs, CA 90670",CA,Y,Y,Y,,,,,,,,33.9632994,-118.0603851
+Thatcher Company Inc,,"1905 W Fortune Rd, Salt Lake City, UT 84104",UT,Y,Y,,,,,,,,,40.741703,-111.944178
+Colonial Terminals,,"101 N Lathrop Ave, Savannah, GA 31415",GA,Y,,,,,,,,,,32.0906882,-81.1306809
+AIP Logistics,,"711 Gibbs Ave, Wapakoneta, OH 45895",OH,Y,Y,Y,,,,,,,,40.5637103,-84.1897146
+Bulkmatic Tranport CO,,"1500 Northeast Pkwy, Fort Worth, TX 76106",TX,Y,Y,Y,,,,,,,,32.8376718,-97.3366046
+Trans Montaigne,,"3425 Talleyrand Ave, Jacksonville, FL 32206",FL,Y,,,,,,,,,,30.3594683,-81.6267091
+Associated Asphalt Bristol,,"140 Spurgeon Lane, Bristol VA 24201",VA,Y,,,,,,,,,,36.6087355,-82.1961039
+Marathon Petroleum Corporation,,"1100 Glass House Road, Clairton, PA 15025",PA,Y,,,,,,,,,,40.258142,-79.9142106
+Transflo CSXT,,"Chattanooga, TN 37408",TN,Y,Y,Y,,,,,,,,35.0457219,-85.3094883
+Transflo CSXT,,"2300 W Laburnum Ave, Richmond, VA 23227",VA,Y,Y,Y,,,,,,,,37.5840069,-77.4708596
+Transflo CSXT,,"1205 Centerville Rd, Wilmington, DE 19808",DE,Y,Y,Y,,,,,,,,39.7313693,-75.616016
+RJ Corman,,"133 Buchanan St, Lexington, KY 40508",KY,Y,Y,Y,,,,,,,,38.054854,-84.5097541
+Transflo CSXT,,"3796 Warrington St, Jacksonville, FL 32254",FL,Y,Y,Y,,,,,,,,30.3267405,-81.719049
+Burlington Junction,,"1625 27th St S W, Le Mars, IA 51031",IA,Y,Y,Y,,,,,,,,42.0145576,-95.3346257
+Carload Connection,,"1303 S 21st St, Centerville, IA 52544",IA,Y,Y,Y,,,,,,,,40.7219902,-92.863843
+"Magellan Midstream Partners, L.P.",,"3449 Pasadena Fwy, Pasadena, TX 77503",TX,Y,Y,Y,,,,,,Gasoline|Ethanol|Diesel|Jet Fuel|blending stocks,231000000,29.7124766,-95.1681631
+Hunt Refining,,"500 Market St NW, Decatur, AL 35601",AL,Y,,,,,,,,,,34.619049,-86.987495
+Central Ferry,,"393 Central Ferry Rd, Pomeroy, WA 99347",WA,Y,,,,,,,,,,46.224876,-118.987125
+Shell,,"5317 Bayou Black Dr, Gibson, LA 70356",LA,Y,,,,,,,,,,29.6316762,-90.9363524
+Marathon Dock,,"Reserve, LA 70084",LA,Y,,,,,,,,,,30.0823981,-90.5585162
+Marathon,,"48237 Kenai Spur Hwy, Kenai, AK 99611",AK,Y,,,,,,,,,,60.5547458,-151.2526148
+Shelly Liquid,Cleveland Terminal,"101 Mahoning Avenue, Cleveland OH 44113",OH,Y,,,,,,,,,,41.4855605,-81.6799565
+Norfolk Southern TBT,,"1875 Frebis Ave, Columbus, OH 43207",OH,Y,Y,Y,,,,,,,,39.933626,-82.945915
+Norfolk Southern TBT (RSI Logistics),,"1301 E Washington St, Petersburg, VA 23803",VA,Y,Y,Y,,,,,,,,37.2371419,-77.3808248
+Associated Asphalt Martinsburg,,"855 Corning Way, Martinsburg WV 25405",WV,Y,,,,,,,,,,39.3900517,-78.0202886
+Associated Asphalt Salisbury,,"1825 Jake Alexander Blvd W, Salisbury NC 28147",NC,Y,,,,,,,,,,35.6854684,-80.5085304
+IMTT - Gretna,,"1145 4th St, Harvey, LA 70058",LA,Y,,,,,,,,,,29.9271191,-90.0818352
+Stolt-Nielsen,,"2444 English Turn Rd, Braithwaite, LA 70040",LA,Y,Y,Y,,,,Y,,Specialty chemicals|petroleum products|Vegetable and Tropical Oils,101062000,29.8689091,-89.9694113
+ABC Gulf Coast Terminal,,"Brownsville, TX 78521",TX,Y,,,,,,,,,,25.9024289,-97.4981698
+,,"2081 Harbor Front Rd, Greenville, MS 38701",MS,Y,,,,,,,,,,33.3787,-91.0468
+Warex Terminals Corporation,,"1184 River Rd, New Windsor, NY 12553",NY,Y,,,,,,,,,,41.4815127,-74.0130974
+Irving Oil,,50 Preble Way Portsmouth NH 03801,NH,Y,,,,,,,,,,43.0917488,-70.770454
+Global,,"1203 River Road, New Windsor, NY 12553",NY,Y,,,,,,,,,,41.4876549,-74.0095885
+Sunoco,,"3351 NY-352, Big Flats, NY 14814",NY,Y,,Y,,,Y,,,Gasoline|Biodiesel|Kerosene|Ethanol|Heating Oil,126000,42.1280189,-76.9624836
+Buckeye Pipeline Co,,"443 Eastern Point Rd, Groton, CT 06340",CT,Y,,,,,,,,,,41.3359896,-72.0767073
+Buckeye Partners,,"301 Normanskill St, Albany, NY 12202",NY,Y,,,,,,,,,,42.6167526,-73.7634551
+Jefferson Energy Companies,Jefferson Energy Terminal Site,"94 Old Hwy 90 W, Vidor, TX 77662",TX,Y,,,,,,,,,,31,-100
+Vopak,,"3601 Dock St, San Pedro, CA 90731",CA,Y,Y,Y,,,Y,,,Specialty chemicals|petroleum products|Bio Fuels,14526000,37,-119
+" Logistec USA, Inc.",Colonel's Island Terminal,"157 Penniman Cir, Brunswick, GA 31523",GA,Y,,,,,,,,,,31.782443,-82.350921
+Placid Refining Company LLC,,"501 River Port Rd, Alexandria, LA 71303",LA,Y,,Y,,,,,,Gasoline|Ethanol|Diesel|E-85,,31.3374908,-92.4644831
+Bulk Transportation CO,Quality Transload,"702 N 4th St, Buckeye, AZ 85326",AZ,Y,Y,Y,,,,,,,,33.376847,-112.5862452
+Brookhaven Rail Terminal,,"205 Sills Rd, Yaphank, NY 11980",NY,Y,,,,,,,,,,43,-75
+Bulkmatic de Mexico,,"Blvd. Lopez Mateos 1701, Ex-Ejido Zacatecas, 21090 Mexicali, B.C., Mexico",,Y,Y,Y,,,,,,,,32.6329177,-115.4630775
+Norfolk Southern TBT (RSI Logistics),,"2820 Nevada Blvd, Charlotte, NC 28273",NC,Y,Y,Y,,,,,,,,35.1163959,-80.9395095
+Bulkmatic Transport CO,,"11005 Blasius Road, Jacksonville, FL 32226",FL,Y,Y,Y,,,,,,,,30.4293907,-81.568544
+Carload Connection,,"12045 W State St, Mason City, IA 50401",IA,Y,Y,Y,,,,,,,,43.1518026,-93.2065041
+International-Matex Tank Terminals (IMTT) ,,"5450 River Rd. Avondale, LA 70094",LA,Y,Y,Y,,,,Y,,Specialty chemicals|petroleum products|Vegetable and Tropical Oils|Commodity chemicals,46200000,29.9196638,-90.1957154
+Carload Connection,,"21778 Highview Ave #100, Lakeville, MN 55044",MN,Y,Y,Y,,,,,,,,44.6341267,-93.236419
+Carry Transit,,"716 110th St, Arlington, TX 76011",TX,Y,,,,,,,,,,32.7518529,-97.0514123
+"Port Consolidated, Inc.",,"3141 SE 14th Ave, Fort Lauderdale, FL 33316",FL,Y,,,,,,,,,,26.0958565,-80.1285165
+Tidewater Transit,,"1161 Wilkes Rd, Fayetteville, NC 28306",NC,Y,Y,,,,,,,,,35.0197028,-78.8938847
+"
+Chevron Pipeline Co.",,"1400 SE 24th St, Fort Lauderdale, FL 33316",FL,Y,,,,,,,,,,26.0930241,-80.1279451
+TransMontaigne Partners LLC,,"2401 Eisenhower Blvd, Fort Lauderdale, FL 33316",FL,Y,,,,,,,,Liquified Asphalt,,26.1016057,-80.1246664
+Marathon Petroleum Corp.,,"901-909 SE 24th St, Fort Lauderdale, FL 33316",FL,Y,,,,,,,,,,26.0929097,-80.1333956
+Transflo CSXT,,"6816 Csx Way, Charlotte, NC 28214",NC,Y,Y,Y,,,,,,,,35.2724797,-80.9223723
+Van Wert Terminal LLC,,"9630 Hoaglin Center Rd, Van Wert, OH 45891",OH,Y,Y,Y,,,,,,,,40.875492,-84.5142314
+Ventura Transfer Co,,"2418 E 223rd St, Carson, CA 90810",CA,Y,Y,Y,,,,,,,,33.824358,-118.2313965
+Kinder Morgan,,"5165 Virginia Ave, North Charleston, SC 29405",SC,Y,Y,Y,,,,,,Specialty chemicals|petroleum products,18060000,32.8918932,-79.9729689
+CargoFlo,,"12010 Toepfer Rd, Warren, MI 48089",MI,Y,Y,Y,,,,,,,,42.4561032,-83.0032495
+Watco Terminal and Port Services,,"6162 AR-18, Blytheville, AR 72315",AR,N,Y,Y,,,,,,,17220000,35.9288576,-89.8725314
+Kinder Morgan,,"4207 Pasadena Fwy, Pasadena, TX 77503",TX,Y,,Y,,,,,,,6720000,29.7120874,-95.1467785
+Norfolk Southern TBT,,"1901 Rossville Ave, Chattanooga, TN 37408",TN,Y,Y,Y,,,,,,,,35.030814,-85.30296
+Norfolk Southern TBT,,"1280 Railcar Ave, Wilmington, DE 19802",DE,Y,Y,Y,,,,,,,,44.608129,-93.369511
+Norfolk Southern TBT,,"3260 Lakewood Ave SW, East Point, GA 30344",GA,Y,Y,Y,,,,,,,,33.697229,-84.4218062
+Quality Transload Inc,,"1029 Channel Ave, Memphis, TN 38113",TN,Y,Y,Y,,,,,,,,35.1071772,-90.0881626
+Shell Oil,,"Martinez, CA 94553",CA,Y,,,,,,,,,,38.0138934,-122.1338674
+CN Cargoflo,,"24759 Vreeland Rd, Flat Rock, MI 48134",MI,Y,Y,Y,,,,,,,,42.1090566,-83.2750929
+,Bitumar USA Inc.,"6000 Pennington Ave, Baltimore MD 21226",MD,Y,,,,,,,,,,39.211273,-76.5879038
+CN Cargoflo,,"185 W Industrial Ave, Memphis, TN 38109",TN,Y,y,y,,,,,,,,35.0827237,-90.0682993
+CN Cargoflo,,"649 Industrial Ave, Vancouver, BC V6A 2P3, Canada",,Y,Y,Y,,,,,,,,49.26926,-123.095064
+Kinder Morgan,,"106 Bridge City Ave, Westwego, LA 70094",LA,Y,Y,Y,,,Y,Y,,,32266000,29.9247785,-90.1456475
+"Ee-Jay Motor Transports, Inc.",,"1501 Lincoln Ave, East St Louis, IL 62204",IL,Y,Y,Y,,,,,,,,38.634802,-90.126806
+"Ee-Jay Motor Transports, Inc.",,"2578 Kasota Ave, St Paul, MN 55108",MN,Y,Y,Y,,,,,,,,44.9773371,-93.2059008
+Foodliner,,"11861 S Cottage Grove Ave, Chicago, IL 60628",IL,Y,,,,,,,,,,41.6787329,-87.6083856
+Fort Transfer,,"225 S Maple Ave, Morton, IL 61550",IL,Y,Y,Y,,,,,,,,40.6144684,-89.4675098
+Chemical South Transport,,"1000 Industry Dr, Savannah, GA 31415",GA,Y,Y,Y,,,,,,,,32.0819448,-81.1115015
+Vecenergy,,"2550 Eisenhower Blvd #12, Fort Lauderdale, FL 33316",FL,Y,,,,,,,,,,26.0987789,-80.1244866
+Norfolk Southern TBT,,"2000 Napor Blvd, Pittsburgh, PA 15205",PA,Y,Y,Y,,,,,,,,40.4440153,-80.0865364
+Watco Terminal and Port Services,,"5297 River Rd, Cincinnati, OH 45233",OH,N,Y,Y,,,,,,,9492000,39.0936085,-84.6494817
+Growmark Fertilizer,,"5125 River Road, Cincinnati OH 45233",OH,Y,,,,,,,,,,39.089304,-84.6440002
+Watco Terminal and Port Services,,"Co Rd 142, Fairview, ND 59221",ND,Y,Y,Y,,,,,,,,46.4058,-97.89899
+Watco Terminal and Port Services,,"200 29th Ave, Council Bluffs, IA 51501",IA,Y,Y,Y,,,,,,,,41.2327219,-95.8395125
+Inland Fuel,,"154 Admiral St, Bridgeport, CT 06605",CT,Y,,Y,,,,,,petroleum products,,41.1667777,-73.2022491
+TransMontaigne,,"310 W Walthall St, Greenville, MS 38701",MS,Y,,,,,,,,,15498000,33.4027783,-91.0687362
+Marathon Petroleum,,"4015 River Rd, Cincinnati, OH 45204",OH,Y,,,,,,,,,,39.0765677,-84.6056509
+Norfolk Southern TBT,,"3601 NW 62nd St, Miami, FL 33147",FL,Y,Y,Y,,,,,,,,25.8313305,-80.2557045
+TransMontaigne,,"208 Short Clay St, Greenville, MS 38701",MS,Y,,,,,,,,,,33.4051994,-91.0700603
+Hoffman Transportation,,"26062 S Frontage Rd E, Channahon, IL 60410",IL,Y,Y,Y,,,,,,,,41.6851986,-88.0658299
+Kitchenman Terminal,,"180 Canal Rd, Fairless Hills, PA 19030",PA,Y,Y,,,,,,,,,40.190323,-74.7853978
+L.G. Everist Inc,,"7321 E 88th Ave Lot 200, Henderson, CO 80640",CO,Y,,Y,,,,,,,,39.856295,-104.904878
+Liquid Titan,,"31645 Industrial Ln, Parker, AZ 85344",AZ,Y,Y,Y,,,,,,,,34,-112
+Liquid Transfer Terminal,,"1025 Dickerson St, Bainbridge, GA 39817",GA,Y,Y,Y,,,,,,,11699000,30.9060983,-84.5935242
+Martts Inc,,"2600 Millers Ln, Louisville, KY 40216",KY,Y,Y,Y,,,,,,,,38.2146887,-85.8095914
+Norfolk Southern TBT,,"1000 S Van Dorn St, Alexandria, VA 22304",VA,Y,Y,Y,,,,,,,,38.8019099,-77.1314484
+Harms Pacific Transport Inc,,"3220 N Glade Rd, Pasco, WA 99301",WA,Y,Y,Y,,,,,,,,46.3126188,-119.1234506
+Norfolk Southern TBT,,"810 Hollins Rd NE, Roanoke, VA 24012",VA,Y,Y,Y,,,,,,,,37.2781681,-79.9240257
+Norfolk Southern TBT,,"4303 Jersey Pike, Chattanooga, TN 37416",TN,Y,Y,Y,,,,,,,,35.0700618,-85.192337
+Norfolk Southern TBT,,"123 Broad Ave, Binghamton, NY 13904",NY,Y,Y,Y,,,,,,,,42.114701,-75.889698
+Norfolk Southern TBT,,"Bison Pkwy, Buffalo, NY 14212",NY,Y,Y,Y,,,,,,,,43,-75
+Celta Chem,,"1301 West 1st Street, Granite City, IL 62040",IL,Y,Y,Y,,,,,,,,38.6944048,-90.1692734
+Norfolk Southern TBT,,"575 N 34th St, Louisville, KY 40212",KY,Y,Y,Y,,,,,,,,38.2696301,-85.8016888
+Norfolk Southern TBT,,"3811 Old Railroad Rd, Sandusky, OH 44870",OH,Y,Y,Y,,,,,,,,41.4308032,-82.7297081
+Norfolk Southern TBT,,"2325 Weaver Way, Doraville, GA 30340",GA,Y,Y,Y,,,,,,,,33.917619,-84.236488
+Norfolk Southern TBT,,"2536 Wayne Trce, Fort Wayne, IN 46803",IN,Y,Y,Y,,,,,,,,41.0648757,-85.1039296
+Norfolk Southern TBT (RSI Logistics),,"381 Veterans Memorial Dr, Elizabeth, NJ 07206",NJ,Y,Y,Y,,,,,,,,40.6587723,-74.1812504
+"Center Point Terminal Company, LLC",,"3206 Gribble St, North Little Rock, AR 72114",AR,Y,Y,Y,,,Y,,,Distillate|Biodiesel|caustic soda,5460000,34.749717,-92.2323398
+Norfolk Southern TBT (RSI Logistics),,"2150 S Newkirk St, Baltimore, MD 21224",MD,Y,Y,Y,,,,,,,,39.2691377,-76.5557305
+Norfolk Southern TBT (RSI Logistics),,"1305 Atlantic Ave, Chesapeake, VA 23324",VA,Y,Y,Y,,,,,,,,36.812877,-76.2625018
+Norfolk Southern TBT (RSI Logistics),,"1861 Old Dunbar Rd, West Columbia, SC 29172",SC,Y,Y,Y,,,,,,,,33.9379065,-81.0941383
+Norfolk Southern TBT (RSI Logistics),,"2059 S Hamilton St, Dalton, GA 30720",GA,Y,Y,Y,,,,,,,,34.7326949,-84.9662807
+Norfolk Southern TBT (RSI Logistics),,"291 S Keim St, Pottstown, PA 19464",PA,Y,Y,Y,,,,,,,,40.2387347,-75.6332207
+Norfolk Southern TBT (RSI Logistics),,"300 Thoroughbred Dr, Ferguson, KY 42533",KY,Y,Y,Y,,,,,,,,37.6476222,-84.8038517
+Norfolk Southern TBT,,"1431 Chardon Rd, Euclid, OH 44117",OH,Y,Y,Y,,,,,,,,41.5723588,-81.535558
+Norfolk Southern TBT,,"McKean Rd, Ypsilanti Charter Twp, MI 48197",MI,Y,Y,Y,,,,,,,,42.1922679,-83.5525347
+Norfolk Southern TBT (RSI Logistics),,"3440 W 20th St, Jacksonville, FL 32209",FL,Y,Y,Y,,,,,,,,30.3558617,-81.6904268
+Norfolk Southern TBT (RSI Logistics),,"1205 Railway Ln, Winston-Salem, NC 27107",NC,Y,Y,Y,,,,,,,,36.0891605,-80.218942
+Titan Terminal and Transport,,"4570 Ardine St, South Gate, CA 90280",CA,Y,Y,Y,,,,,,,,33.9573083,-118.1882933
+Superior Carriers,,"495 NE O'Neil Hwy, Redmond, OR 97756",OR,Y,,,,,,,,,,44.3127084,-121.1701114
+PVS Transportation,,"11001 Harper Ave, Detroit, MI 48213",MI,Y,Y,Y,,,,,,,,42.3964598,-82.9919813
+Norfolk Southern TBT (RSI Logistics),,"7525 Asheville Hwy, Spartanburg, SC 29303",SC,Y,Y,Y,,,,,,,,34.9881641,-81.9808156
+Quality Transload Inc,,"700 S Whitman Ave, Appleton, WI 54914",WI,Y,Y,Y,,,,,,,,44.25671,-88.435744
+Quality Transload Inc,,"9800 Bayport Blvd, Pasadena, TX 77507",TX,Y,,,,,,,,,,29.5911488,-95.0286194
+Savage Service Corp,,"8852 E Idaho St, Elko, NV 89801",NV,Y,Y,Y,,,,,,,,40.9240623,-115.6790342
+Runyon Industries Inc,,"4334 Millington Rd, Memphis, TN 38127",TN,Y,,,,,,,,,,35.2448987,-90.0032366
+Savage Safe Handling Inc,,"123 Rodman Rd, Auburn, ME 04210",ME,Y,Y,Y,,,,,,,,44.071467,-70.2513606
+Superior Carriers,,"1198 Radcliff Rd, Creola, AL 36525",AL,Y,Y,Y,,,,,,,,30.8970741,-88.0412364
+Texas Blending & Warehousing,,"2505 Collingsworth St, Houston, TX 77026",TX,Y,Y,Y,,,,,,,,29.7937919,-95.3447489
+Transflo CSXT,,"1401 W 145th St, East Chicago, IN 46312",IN,Y,Y,Y,,,,,,,,41.6321546,-87.4889641
+Transflo CSXT,,"200 Courtland St, Pittsburgh, PA 15207",PA,Y,Y,Y,,,,,,,,40.404964,-79.94593
+RJ Corman,,"320 Rains Air Depot Rd, Gadsden, AL 35905",AL,Y,Y,Y,,,,,,,,33.964881,-85.934175
+RJ Corman,,"4107 Hardison Rd, Woodburn, KY 42170",KY,Y,Y,Y,,,,,,,,36.8565345,-86.6193897
+Savage Service Corp,,"14891 42nd St NW, Williston, ND 58801",ND,Y,Y,Y,,,,,,,,48.0245439,-103.9028038
+SMS Transloading Services,,"513 Sharptown Rd, Logan Township, NJ 08085",NJ,Y,Y,Y,,,,,,,,39.7700497,-75.3652566
+Transflo CSXT,,"1000 Chattahoochee Ave NW, Atlanta, GA 30318",GA,Y,Y,Y,,,,,,,,33.8010364,-84.4221623
+Transflo CSXT,,"1525 Andre St, Baltimore, MD 21230",MD,Y,Y,Y,,,,,,,,39.2661484,-76.5912785
+Transflo CSXT,,"15 Chem. des Hauts Fourneaux, Beauharnois, QC J6N 1W5, Canada",,Y,Y,Y,,,,,,,,45.311912,-73.89191
+Transflo CSXT,,"1254 William St, Buffalo, NY 14206",NY,Y,Y,Y,,,,,,,,42.885937,-78.8248011
+York Rail Logistics,,"2790 W Market St, York, PA 17404",PA,Y,Y,,,,,,,,,39.9478238,-76.7806094
+Transflo CSXT,,"426 Chestnut St, Nashville, TN 37203",TN,Y,Y,Y,,,,,,,,36.1419692,-86.7724531
+Transflo CSXT,,"19 Walkup Dr, Westborough, MA 01581",MA,Y,Y,Y,,,,,,,,42.2753353,-71.5692262
+Transflo CSXT,,"310 Moore St, Philadelphia, PA 19146",PA,Y,Y,Y,,,,,,,,39.9256387,-75.1523915
+Transflo CSXT,,"1799 Essie McIntyre Blvd #1601, Augusta, GA 30904",GA,Y,Y,Y,,,,,,,,33.458311,-82.003084
+Transflo CSXT,,"1990 Tuxbury Ln, North Charleston, SC 29405",SC,Y,Y,Y,,,,,,,,32.8346143,-79.9533237
+Transflo CSXT,,"2200 Volunteer Blvd, Knoxville, TN 37916",TN,Y,Y,Y,,,,,,,,35.94815,-83.93446
+Transflo CSXT,,"2591 W 5th St, Sanford, FL 32771",FL,Y,Y,Y,,,,,,,,28.8080507,-81.2744142
+Transflo CSXT,,"504 N 34th St, Tampa, FL 33605",FL,Y,Y,Y,,,,,,,,27.9515659,-82.4224208
+Transload Solutions,,"743 W Anderson St, Stockton, CA 95206",CA,Y,,,,,,,,,,37.9408451,-121.2990624
+Heniff Transportation,,"5555 Wooster Pike, Cincinnati, OH 45227",OH,Y,,,,,,,,,,39.1380978,-84.3965729
+Ventura Transfer Co,,"605 N 3rd St, El Centro, CA 92243",CA,Y,Y,Y,,,,,,,,32.7973027,-115.5487168
+Watco Terminal and Port Services,,"448 S 11th Ave, Phoenix, AZ 85007",AZ,Y,,,,,,,,,,33.4453416,-112.0870534
+Transflo CSXT,,"130 Willard St, Greenville, SC 29601",SC,Y,Y,Y,,,,,,,,34.8558793,-82.4177725
+Watco Terminal and Port Services,,"451 N Sunnylane Rd, Oklahoma City, OK 73117",OK,Y,Y,Y,,,,,,,,35.470441,-97.4417135
+Kinder Morgan,,"9288 LA-75, Geismar, LA 70734",LA,Y,Y,,,,Y,,,,1209000,30.2085047,-91.0313338
+Phillips 66,,LA 70601,LA,Y,,,,,,,,,,30.2262463,-93.2057716
+NorthStar,,"135 Diebel Lane Point Comfort, Point Comfort, TX 77978",TX,Y,,,,,,,,,,31,-100
+Ozark Transmodal Inc,,"1301 N 4th St, Fort Smith, AR 72901",AR,Y,,,,,,,,,,35.3983677,-94.4173475
+Carry Transit,,"7749 63rd St, Summit, IL 60501",IL,Y,,,,,,,,,,41.7773362,-87.8016993
+Heniff,,"19 Edison Ave, Oakland, NJ 07436",NJ,Y,,,,,,,,,,41.0228531,-74.2626921
+Superior Carriers,,"190 Houses Corner Rd, Sparta Township, NJ 07871",NJ,Y,,,,,,,,,,41.0622477,-74.660433
+Van-G Logistics,,"14555 S Peach Ave, Selma, CA 93662",CA,Y,,,,,,,,,,37,-119
+Kinder Morgan,,"4279 LA-73, Geismar, LA 70734",LA,Y,Y,,,,,,,,8561000,30.2083561,-91.0180548
+,,"2025 Guy N Verger Blvd, Tampa, FL 33605",FL,Y,,,,,,,,,,27.9335158,-82.4368797
+ Rochelle Transload Center ,,"Rochelle, IL 61068",IL,Y,,,,,,,,,,41.9239178,-89.0687074
+RSI Logistics,,"1460 Hynes Ave SW, Grand Rapids, MI 49507",MI,Y,Y,Y,,,,,,,,42.9416431,-85.6772562
+Savage Service Corp,,"3995 Old Spanish Trail, Westlake, LA 70669",LA,Y,Y,Y,,,,,,,,31,-92
+Transflo CSXT,,"2700 W 3rd St, Cleveland, OH 44113",OH,Y,Y,Y,,,,,,,,41.4973523,-81.69483
+Ventura Transfer Co,,"1302 E Lomita Blvd, Wilmington, CA 90744",CA,Y,Y,Y,,,,,,,,37,-119
+Transflo CSXT,,"945 Freeman Ave SW, Grand Rapids, MI 49503",MI,Y,Y,Y,,,,,,,,42.946253,-85.694735
+Kinder Morgan,,"12200 S. Stony Island Ave. Chicago, IL 60633",IL,Y,Y,Y,,,Y,Y,,,30929000,41.6675704,-87.5820797
+RJ Corman,,"175 R J Corman Dr, Glasgow, VA 24555",VA,Y,Y,Y,,,,,,,,37.623869,-79.4712451
+Ventura Transfer Co,,"707 N 20th Ave, Phoenix, AZ 85009",AZ,Y,Y,Y,,,,,,,,33.4558937,-112.1009112
+"Tesoro Logistics Operations, LLC
+Marathon Petroleum Corporation",,"1930 E Pacific Coast Hwy, Wilmington, CA 90744",CA,Y,,,,,,,,,,33.7909844,-118.2470655
+Bulk Transportation CO,,"3032 S El Dorado St, Stockton, CA 95206",CA,Y,Y,Y,,,,,,,,37.94136,-121.2866956
+Norfolk Southern TBT (RSI Logistics),,"590 Taylor St, Augusta, GA 30901",GA,Y,Y,Y,,,,,,,,33.4635435,-81.9591847
+Quality Transload Inc,,"700 Minton Rd, Fort Worth, TX 76179",TX,Y,Y,Y,,,,,,,,31,-100
+Trimac Inc,,"6800 McLarin Rd, Fairburn, GA 30213",GA,Y,Y,Y,,,,,,,,33.543428,-84.609593
+Transflo CSXT,,"454 York St, Elizabeth, NJ 07201",NJ,Y,Y,Y,,,,,,,,40.6598909,-74.1884143
+Southeast Missouri Regional Port,,"10 Bill Bess Dr, Scott City, MO 63780",MO,Y,,,,,,,,,,37.2458533,-89.4919338
+Kinder Morgan,,"3801 Kellogg Ave, Cincinnati, OH 45226",OH,Y,Y,Y,,,,,,,35627000,39.110357,-84.438206
+Kinder Morgan,,"2005 N 6th St, Wilmington, NC 28401",NC,Y,Y,Y,,,,,,,47416000,34.2575808,-77.9449873
+Red Dog,,AK 99752,AK,Y,,,,,,,,,,55.1757005,-162.7191398
+,,"219 Diebel Ln, Point Comfort, TX 77978",TX,Y,,,,,,,,,,31,-100
+,,"106 9th Street, Golden Meadow, LA 70357",LA,Y,,,,,,,,,,31,-92
+Global,,"1254 River Rd, New Windsor, NY 12553",NY,Y,,Y,,,,,,Distillate|Kerosene|Ethanol,,41.485867,-74.0092821
+Cenovus Energy Duluth Marine Fueling Terminal,,"Lake Superior, Duluth, MN 55802",MN,Y,,,,,,,,,,46.7798329,-92.092517
+New Hamburg,,"17 Point St, Wappingers Falls, NY 12590",NY,Y,,,,,,,,,,41.5871395,-73.9503012
+Phillips 66 Company,,"1400 Park Ave, Linden, NJ 07036",NJ,Y,,,,,,,,,,40.6512725,-74.2341857
+The Energy Conservation Group,,"119-02 23rd Ave, College Point, NY 11356",NY,Y,,,,,,,,,,43,-75
+Kinder Morgan,,"49 53rd Ave, Phoenix, AZ 85043",AZ,Y,,,,,,,,,,33.4502274,-112.1760528
+Natchez Adams County Port,,"#2 River Terminal Road P.O. Box 925 Natchez, MS 39120",MS,Y,,,,,,,,,,31.529247,-91.43506
+Ostrica,,"Plaquemines Parish School District, LA 70037",LA,Y,,,,,,,,,,31,-92
+Citgo,,"915 N Martin Luther King Ave, Oklahoma City, OK 73117",OK,Y,,,,,,,,,,35.4765217,-97.476831
+Enterprise Products,,"13625 Townsend-Winona Rd, Flagstaff, AZ 86004",AZ,Y,,,,,,,,,,34,-112
+Western Milling LLC,,"31189 Rd 68, Visalia, CA 93291",CA,Y,,,,,,,,,,37,-119
+Petro Marine Services,,"110 J T Brown St, Craig, AK 99921",AK,Y,,,,,,,,,,55.4887252,-133.1413309
+Caljet Inc,,"125 N 53rd Ave, Phoenix, AZ 85043",AZ,Y,,,,,,,,,,33.4511844,-112.1761262
+West Coast Transloading,,"717 Ralph Ave, Stockton, CA 95206",CA,Y,,,,,,,,,,37.9214476,-121.2566293
+Alpha Technical Services,,"5100 Underwood Rd, Pasadena, TX 77507",TX,Y,,,,,,,,,,29.6168656,-95.0879119
+Buckeye Transfer,,"41738 Esterly Dr, Columbiana, OH 44408",OH,Y,,,,,,,,,,40.8888145,-80.7105496
+B&J Group Inc,,"1001 New Ford Mill Rd, Morrisville, PA 19067",PA,Y,,,,,,,,,,40.153689,-74.767852
+Transflo CSXT,,"177 Rosa Parks Blvd, Detroit, MI 48216",MI,Y,,,,,,,,,,42.321665,-83.066345
+Transflo CSXT,,"890 SW 21st Ave, Fort Lauderdale, FL 33312",FL,Y,,,,,,,,,,26.1030553,-80.1696212
+Kinder Morgan,,"4500 Euless South Main St, Euless, TX 76040",TX,Y,,,,,,,,,,31,-100
+Truck-Rail Handling Inc,,"457 E 18th St, Tacoma, WA 98421",WA,Y,,,,,,,,,,47.2470274,-122.4296772
+Arrow Reload Washington Inc.,,"2018 E. Portland Ave Tacoma, WA 98421",WA,Y,,,,,,,,,,47.2542205,-122.419862
+Flint Hills Resources,,"3334 River Rd, Wilmington, NC 28412",NC,Y,,,,,,,,,,34.1738384,-77.9490085
+Buckeye Partners,,"380 Maurer Rd, Perth Amboy, NJ 08861",NJ,Y,,,,,,,,,,40.5368517,-74.2642459
+Carlile Transportation Systems,Carlile's Tacoma Trucking Terminal,"2301 Taylor Way Tacoma, WA 98421",WA,Y,,,,,,,,,,47.2676428,-122.3780666
+Transflo CSXT,,"7550 Grade Ln, Louisville, KY 40219",KY,Y,,,,,,,,,,38.1393454,-85.7387405
+Savage Service Corp,,"228 McCloskey Ave, Lake City, FL 32055",FL,Y,,,,,,,,,,30.1903832,-82.5703351
+Seaboard Energy,,"1043 Rd P, Hugoton, KS 67951",KS,Y,,,,,,,,,,37.1845136,-101.389393
+Sunco,,"5575 Brighton Blvd, Commerce City, CO 80022",CO,Y,,,,,,,,,,39.7973096,-104.9530195
+Big West,,"333 W Center St, North Salt Lake, UT 84054",UT,Y,,,,,,,,,,40.8418088,-111.9033927
+Valero,,"2385, Riverport Rd, Memphis, TN 38109",TN,Y,,,,,,,,,,35.0682889,-90.1501508
+Global Terminal Road,,"130 Terminal Rd, Providence, RI 02905",RI,Y,,,,,,,,,,41.7957076,-71.3968256
+Liquid Transfer Terminals Inc,Baltimore Terminal #2,"6101 Pennington Avenue, Baltimore MD 21226",MD,Y,,,,,,,,,,39.210934,-76.585833
+Henderson County Riverport,,"6200 Riverport Road Henderson, KY 42420",KY,N,,,,,,,,,,37.802833,-87.658848
+Husky Energy,,"1965 Apache Ln, Rhinelander, WI 54501",WI,Y,,,,,,,,,,45.6596823,-89.3825293
+Tricor Refining,,"3542 Shell St, Bakersfield, CA 93308",CA,Y,,,,,,,,,,37,-119
+Van-G Logistics,,"8000 Manning Ave, Fowler, CA 93625",CA,Y,,,,,,,,,,36.6054615,-119.6569841
+Base Inc,,"5307 E Pine St, Tulsa, OK 74115",OK,Y,,,,,,,,,,36.1770958,-95.9334204
+Associated Asphalt Charlotte,,"1801 Westinghouse Blvd, Charlotte NC 28273",NC,Y,,,,,,,,,,35.126839,-80.9366529
+Burlington Junction,,"501 Frisco Dr, Fenton, MO 63026",MO,Y,,,,,,,,,,38.546009,-90.45158
+Transflo CSXT,,"107 McFarland Rd, Dalton, GA 30721",GA,Y,,,,,,,,,,34.1361964,-84.2484845
+Monroe Energy,,"4101 Post Rd, Marcus Hook, PA 19061",PA,N,,Y,,,,,,,116841000,39.8223668,-75.4099734
+Marathon,,"400 S Marathon Ave, Robinson, IL 62454",IL,Y,,,,,,,,,,39.0046446,-87.7262203
+Citgo,,"1308 Oak Park Ave, Corpus Christi, TX 78407",TX,Y,,,,,,,,,,27.8060136,-97.4311256
+Savage Service Corp,,"4500 Old Port Industrial Rd, Galveston TX 77554",TX,Y,,,,,,,,,,31,-100
+Bulk Transport CO,,"3717 41st Ct N, Birmingham, AL 35217",AL,Y,,,,,,,,,,33.5635571,-86.7851417
+Magellan,,"1802 Poth Ln, Corpus Christi, TX 78407",TX,Y,,,,,,,,,,27.8118188,-97.4314046
+Sunco,,"5800 Brighton Blvd, Commerce City, CO 80022",CO,Y,,,,,,,,,,39.7995186,-104.9497094
+Hopewell,,"Hopewell, VA 23860",VA,Y,,,,,,,,,,37.3043154,-77.2872001
+Phillips 66,,"1000 S Pine St, Ponca City, OK 74601",OK,Y,,,,,,,,,,36.6999103,-97.0867274
+Phillips 66,,"1400 Jefferson Rd, Pasadena, TX 77506",TX,Y,,,,,,,,,,29.7354816,-95.1818249
+Philadelphia Energy Solutions,,"3100 Passyunk Ave, Philadelphia, PA 19145",PA,Y,,,,,,,,,,39.9191997,-75.2046912
+Guttman Energy,,"200 Speers Avenue, Belle Vernon PA 15012",PA,Y,,,,,,,,,,40.128509,-79.857759
+Ventura Transfer Company,,"1027 N 21st Ave, Phoenix, AZ 85009",AZ,Y,,,,,,,,,,33.4596957,-112.1039445
+Ventura Transfer Company,,"6080 Peachtree St, Commerce, CA 90040",CA,Y,,,,,,,,,,33.9828417,-118.1548986
+Associated Asphalt,,"5025 Overdale Rd, Winston-Salem, NC 27107",NC,Y,,,,,,,,,,36.0325595,-80.2319902
+Norfolk Southern TBT,,"3050 Thoroughfare Rd, Goldsboro, NC 27534",NC,Y,,,,,,,,,,35.374378,-77.9148386
+PBF Chalmette Refinery,,"500 W St Bernard Hwy, Chalmette, LA 70043",LA,Y,,,,,,,,,,29.93865,-89.970543
+BNSF,,"2525 Argentine Blvd, Kansas City, KS 66106",KS,Y,,,,,,,,,,39.0786973,-94.6605365
+Heniff Transportation Systems,,"7749 W 63rd St, Summit, IL 60501",IL,Y,,,,,,,,,,41.7769266,-87.814597
+Carry Transit,,"3703 County Rd 1018, Joshua, TX 76058",TX,Y,,,,,,,,,,31,-100
+Targa Resources,,"10319 N Hwy 146, Mont Belvieu, TX 77580",TX,Y,,,,,,,,,,31,-100
+Norfolk Southern,,"72 Beauregard St, Mobile, AL 36602",AL,Y,,,,,,,,,,30.7005521,-88.0438555
+E R Snell Contractor,,"6909 Rogers Lake Rd, Lithonia, GA 30058",GA,Y,,,,,,,,,,33.7207245,-84.1080936
+Global Co,,"126 Flynn Ave, Burlington, VT 05401",VT,Y,,,,,,,,,,44.4558437,-73.2209396
+Asphalt Materials,,"2820 Durbin St, Warsaw, IN 46580",IN,Y,,,,,,,,,,41.2338983,-85.8189874
+Western Emulsions Inc,,"1001 W 1500 S, Woods Cross, UT 84087",UT,Y,,,,,,,,,,40.8747086,-111.9160303
+Manly Terminal,,"1575 380th St, Manly, IA 50456",IA,Y,,,,,,,,,,43.312949,-93.205388
+Ergon Asphalt and Emulsions Inc,,"95 W 1100 N, North Salt Lake, UT 84054",UT,Y,,,,,,,,,,40.8616921,-111.902345
+Holly Asphalt,,"4949 Edith Blvd NE, Albuquerque, NM 87107",NM,Y,,,,,,,,,,35.1289759,-106.63136
+Transflo CSXT,,"2057 Bell St, Montgomery, AL 36104",AL,Y,,,,,,,,,,32.3732848,-86.3486768
+Transflo CSXT,,"200 Welch St, East Syracuse, NY 13057",NY,Y,,,,,,,,,,43.0626603,-76.0690409
+Sprague Energy,,"728 Southern Artery, Quincy, MA 02169",MA,Y,,Y,,,,,,Kerosene|Fuel Oil|Diesel|Heating Fuel Dyed|Jet Fuel,,42.2517979,-70.9841203
+Transflo CSXT,,"3100 Lockbourne Rd, Columbus, OH 43207",OH,Y,,,,,,,,,,39.895787,-82.967507
+RSI Logistics,,"1951 Hamburg Turnpike, Lackawanna, NY 14218",NY,Y,Y,Y,,,,,,,,42.831728,-78.8529628
+Ultramar Inc,,"2402 E Anaheim St, Wilmington, CA 90744",CA,Y,,,,,,,,,,33.7799973,-118.2622455
+International Raw Materials,Terminal 4,"11040 N Lombard Street Portland, OR 97203",OR,N,,,,,,,,,,45.5888155,-122.7463054
+Enterprise Products Partners L.P.,,"Red Gate Ln, Boligee, AL 35443",MS,Y,,Y,,,,,,Gasoline|Ethanol|Diesel,,32.454791,-88.121194
+Interlube Corporation,,"750 Anchor Rd, Brownsville, TX 78521",TX,Y,,,,,,,,,,25.9614887,-97.3796673
+tesoro Alaska,,"1076 Ocean Dock Rd, Anchorage, AK 99501",AK,Y,,,,,,,,,,61.2333742,-149.8909132
+Buckeye,,"420 Hook Rd, Bayonne, NJ 07002",NJ,Y,,,,,,,,,,40.6645112,-74.1076455
+Kinder Morgan,,"8500 W 68th St, Summit, IL 60501",IL,Y,Y,Y,,,Y,,,Biodiesel|Ethanol|Fuel Oil|Specialty chemicals|petroleum products,112238000,41.7694016,-87.7358517
+Sterling Services,,"1530 Commor Ave, Hamtramck, MI 48212",MI,Y,Y,Y,,,,,,,,42.399922,-83.074169
+International-Matex Tank Terminals (IMTT),,"250 E. 22nd St.Bayonne, NJ 07002",NJ,Y,Y,Y,,,Y,Y,,Ethanol|Specialty chemicals|petroleum products|Bio Fuels|Vegetable and Tropical Oils|Oleochemicals,672000000,40.6587947,-74.1048939
+Ergon,,2076 Stephen Street P O Box 92 Hugheston WV 25110,WV,N,,,,,,,,,,38.2105827,-81.3758639
+Murphy Oil,,"424 Madison St, Freeport, FL 32439",FL,Y,,,,,,,,,,30.4925475,-86.1380804
+TransMontaigne,,233 Elizabeth St. Paducah KY 42001,KY,Y,,,,,,,,,13524000,37.0718425,-88.5867344
+"Bluewing Midstream,LLC.",,"11700 Old State Hwy. 48 Brownsville, TX 78521",TX,Y,,Y,,,Y,,,Gasoline|Biodiesel|Ethanol|Diesel|Jet Fuel|base oils|wax|Bio Fuels|Naphtha,151200000,31,-100
+,,"Mobile, AL 36633",AL,Y,,,,,,,,,,30.6913462,-88.0437509
+Global,,"346 Church St, Albany, NY 12202",NY,Y,,,,,,,,,,42.6323782,-73.7560971
+Port of Grays Harbor,,"3122 Port Industrial Rd, Hoquiam, WA 98550",WA,Y,,,,,,,,,,46.9711601,-123.8550859
+Marathon Petroleum,,"11631 Old US Hwy 23, Catlettsburg, KY 41129",KY,Y,,,,,,,,,,37.9284827,-82.6992977
