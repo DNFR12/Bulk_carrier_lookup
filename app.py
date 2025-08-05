@@ -2,32 +2,19 @@ from flask import Flask, render_template, request
 import pandas as pd
 import folium
 
-# === Load Data ===
 csv_path = "Liquid_Bulk_Carriers_With_Coords.csv"
 df = pd.read_csv(csv_path)
 
-# Ensure valid Lat/Lng
 df["Lat"] = pd.to_numeric(df["Lat"], errors="coerce")
 df["Lng"] = pd.to_numeric(df["Lng"], errors="coerce")
 df = df.dropna(subset=["Lat", "Lng"])
 
 app = Flask(__name__)
 
-# === Function to Create Map ===
 def create_map(filtered_df):
     fmap = folium.Map(location=[37.8, -96], zoom_start=4)
 
     for _, row in filtered_df.iterrows():
-        # Assign color and icon based on product type
-        if row.get("Petroleum_Products") == 1:
-            color, icon = "red", "tint"        # Petroleum → red drop
-        elif row.get("Chemical_Products") == 1:
-            color, icon = "blue", "flask"      # Chemicals → blue flask
-        elif row.get("Biofuel") == 1:
-            color, icon = "green", "leaf"      # Biofuel → green leaf
-        else:
-            color, icon = "gray", "info-sign"  # Others → gray info
-
         popup_html = f"""
         <b>{row['Operator_Name']}</b><br>
         Facility: {row['Facility_Name']}<br>
@@ -36,28 +23,28 @@ def create_map(filtered_df):
         Capacity: {row.get('Capacity_Gallons','N/A')} gallons
         """
 
+        # Blue pins with smaller size using folium.Icon
         folium.Marker(
             location=[row["Lat"], row["Lng"]],
             popup=popup_html,
-            icon=folium.Icon(color=color, icon=icon, prefix='fa')
+            icon=folium.Icon(color="blue", icon="tint", prefix="fa")
         ).add_to(fmap)
 
     return fmap._repr_html_()
 
-# === Flask Routes ===
 @app.route("/", methods=["GET"])
 def home():
     state = request.args.get("state")
     states = sorted(df["State"].dropna().unique())
-
     filtered_df = df[df["State"] == state] if state else df
+
     map_html = create_map(filtered_df)
     company_data = filtered_df.to_dict(orient="records")
 
-    return render_template("index.html", 
-                           map=map_html, 
-                           states=states, 
-                           selected=state, 
+    return render_template("index.html",
+                           map=map_html,
+                           states=states,
+                           selected=state,
                            companies=company_data)
 
 if __name__ == "__main__":
