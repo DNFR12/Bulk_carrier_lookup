@@ -14,6 +14,7 @@ app = Flask(__name__)
 def create_map(filtered_df):
     fmap = folium.Map(location=[37.8, -96], zoom_start=4)
 
+    # Use smaller custom blue pin
     for _, row in filtered_df.iterrows():
         popup_html = f"""
         <b>{row['Operator_Name']}</b><br>
@@ -23,11 +24,12 @@ def create_map(filtered_df):
         Capacity: {row.get('Capacity_Gallons','N/A')} gallons
         """
 
-        # Blue pins with smaller size using folium.Icon
+        # Create a smaller custom blue marker
+        small_icon = folium.Icon(color="blue", icon="tint", prefix="fa")
         folium.Marker(
             location=[row["Lat"], row["Lng"]],
             popup=popup_html,
-            icon=folium.Icon(color="blue", icon="tint", prefix="fa")
+            icon=small_icon
         ).add_to(fmap)
 
     return fmap._repr_html_()
@@ -39,13 +41,13 @@ def home():
     filtered_df = df[df["State"] == state] if state else df
 
     map_html = create_map(filtered_df)
-    company_data = filtered_df.to_dict(orient="records")
+    company_names = filtered_df["Operator_Name"].dropna().unique().tolist()
 
     return render_template("index.html",
                            map=map_html,
                            states=states,
                            selected=state,
-                           companies=company_data)
+                           company_names=company_names)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
