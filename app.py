@@ -14,7 +14,9 @@ app = Flask(__name__)
 def create_map(filtered_df):
     fmap = folium.Map(location=[37.8, -96], zoom_start=4)
 
-    # Use smaller custom blue pin
+    # Define a small custom blue pin (Google Maps style but smaller)
+    small_icon_url = "https://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png"
+
     for _, row in filtered_df.iterrows():
         popup_html = f"""
         <b>{row['Operator_Name']}</b><br>
@@ -24,12 +26,10 @@ def create_map(filtered_df):
         Capacity: {row.get('Capacity_Gallons','N/A')} gallons
         """
 
-        # Create a smaller custom blue marker
-        small_icon = folium.Icon(color="blue", icon="tint", prefix="fa")
         folium.Marker(
             location=[row["Lat"], row["Lng"]],
             popup=popup_html,
-            icon=small_icon
+            icon=folium.CustomIcon(small_icon_url, icon_size=(18, 18))  # much smaller icon
         ).add_to(fmap)
 
     return fmap._repr_html_()
