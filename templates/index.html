@@ -11,41 +11,40 @@
             width: 100%; height: 100%;
             z-index: 1;
         }
+
+        /* Filter Box: Top Left Corner */
         #sidePanel {
             position: absolute;
-            top: 15%;
-            left: 2%;
+            top: 20px;
+            left: 20px;
             background: white;
             padding: 12px;
             border-radius: 8px;
-            width: 20%;
-            min-width: 200px;
-            max-width: 300px;
+            width: 250px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.3);
             z-index: 999;
         }
         #sidePanel h2 { margin: 0 0 5px; font-size: 16px; }
         select, button { width: 100%; margin-top: 5px; padding: 6px; font-size: 14px; }
-        
+
+        /* Company List: Bottom Right Corner */
         #companyList {
             position: absolute;
-            bottom: 5%;
-            left: 2%;
-            width: 20%;
-            min-width: 200px;
-            max-width: 300px;
+            bottom: 20px;
+            right: 20px;
+            width: 250px;
             background: white;
             border-radius: 5px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.3);
-            padding: 8px;
+            padding: 10px;
             z-index: 999;
-            font-size: 12px;
-            max-height: 25%;
+            font-size: 13px;
+            max-height: 250px;
             overflow-y: auto;
         }
         #companyList h3 { margin: 0 0 5px; font-size: 14px; }
         #companyList ul { padding-left: 15px; margin: 0; list-style-type: none; }
-        #companyList li { margin-bottom: 3px; }
+        #companyList li { margin-bottom: 4px; }
     </style>
 </head>
 <body>
