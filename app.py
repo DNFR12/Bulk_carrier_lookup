@@ -18,15 +18,15 @@ def create_map(filtered_df):
     fmap = folium.Map(location=[37.8, -96], zoom_start=4)
 
     for _, row in filtered_df.iterrows():
-        # Choose color based on product type
+        # Assign color and icon based on product type
         if row.get("Petroleum_Products") == 1:
-            color, icon = "red", "tint"
+            color, icon = "red", "tint"        # Petroleum → red drop
         elif row.get("Chemical_Products") == 1:
-            color, icon = "blue", "flask"
+            color, icon = "blue", "flask"      # Chemicals → blue flask
         elif row.get("Biofuel") == 1:
-            color, icon = "green", "leaf"
+            color, icon = "green", "leaf"      # Biofuel → green leaf
         else:
-            color, icon = "gray", "info-sign"
+            color, icon = "gray", "info-sign"  # Others → gray info
 
         popup_html = f"""
         <b>{row['Operator_Name']}</b><br>
@@ -44,14 +44,13 @@ def create_map(filtered_df):
 
     return fmap._repr_html_()
 
-# === Routes ===
+# === Flask Routes ===
 @app.route("/", methods=["GET"])
 def home():
     state = request.args.get("state")
     states = sorted(df["State"].dropna().unique())
 
     filtered_df = df[df["State"] == state] if state else df
-
     map_html = create_map(filtered_df)
     company_data = filtered_df.to_dict(orient="records")
 
