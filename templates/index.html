@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bulk Liquid Carrier Lookup</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+        #topBanner {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            padding: 15px;
+            width: 80%;
+            margin: 15px auto;
+            text-align: center;
+        }
+        select, button { padding: 5px; font-size: 14px; }
+        #map { height: 60vh; width: 90%; margin: 10px auto; border: 2px solid #ddd; border-radius: 5px; }
+        #dataTable {
+            width: 90%;
+            margin: 15px auto;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+            padding: 10px;
+            max-height: 250px;
+            overflow-y: scroll;
+        }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid #ccc; padding: 6px; text-align: left; font-size: 14px; }
+        th { background: #f0f0f0; }
+    </style>
+</head>
+<body>
+
+<div id="topBanner">
+    <h2>Bulk Liquid Carrier Lookup</h2>
+    <form method="GET" action="/">
+        <label for="state">Filter by State:</label>
+        <select name="state">
+            <option value="">All States</option>
+            {% for s in states %}
+            <option value="{{s}}" {% if selected == s %}selected{% endif %}>{{s}}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Filter</button>
+    </form>
+</div>
+
+<div id="map">{{ map|safe }}</div>
+
+<div id="dataTable">
+    <h3>Filtered Companies</h3>
+    <table>
+        <tr>
+            <th>Operator</th>
+            <th>Facility</th>
+            <th>State</th>
+            <th>Liquid Type</th>
+            <th>Capacity (Gallons)</th>
+        </tr>
+        {% for c in companies %}
+        <tr>
+            <td>{{ c.Operator_Name }}</td>
+            <td>{{ c.Facility_Name }}</td>
+            <td>{{ c.State }}</td>
+            <td>{{ c.Liquid_Type_Detail }}</td>
+            <td>{{ c.Capacity_Gallons }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+</body>
+</html>
